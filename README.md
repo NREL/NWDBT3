@@ -15,9 +15,9 @@ NOTE: The installation instruction below assume that you have python installed o
 5. ProbMetrics_2.R calcualates the metrics for wind turbine uncertainty quantification.
 6. Analysis_SPC_WindRegion.R outputs the relialibility and sharpness plots.<br>
    Example of reliability plot.<br>
-   <img src="/images/reliability.png" width="600" height="200" alt="Alt text">
+   <img src="/images/reliability.png" width="300" height="100" alt="Alt text"><br>
    Example of sharpness plot.<br>
-   <img src="/images/sharpness.png" width="600" height="200" alt="Alt text">
+   <img src="/images/sharpness.png" width="300" height="100" alt="Alt text"><br>
    Example of time series plot.<br>
    <img src="/images/TS.png" width="600" height="200" alt="Alt text">
 # Recommended Citation
