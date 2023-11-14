@@ -11,9 +11,15 @@ NOTE: The installation instruction below assume that you have python installed o
    <img src="/images/data_clean.png" width="600" height="200" alt="Alt text">
 3. ANN_trainging.ipynb trains the model for a single turbine.<br>
    Example of wind turbine uncertainty modeling.<br>
-   <img src="/images/modeling_results.png" width="600" height="400" alt="Alt text">
+   <img src="/images/modeling_results.png" width="600" height="200" alt="Alt text">
 5. ProbMetrics_2.R calcualates the metrics for wind turbine uncertainty quantification.
-6. Analysis_SPC_WindRegion.R outputs the relialibility and sharpness plots.
+6. Analysis_SPC_WindRegion.R outputs the relialibility and sharpness plots.<br>
+   Example of reliability plot.<br>
+   <img src="/images/reliability.png" width="600" height="200" alt="Alt text">
+   Example of sharpness plot.<br>
+   <img src="/images/sharpness.png" width="600" height="200" alt="Alt text">
+   Example of time series plot.<br>
+   <img src="/images/TS.png" width="600" height="200" alt="Alt text">
 # Recommended Citation
 Please check back in the future
 # Acknowledgments
