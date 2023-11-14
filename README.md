@@ -17,11 +17,11 @@ NOTE: The installation instruction below assume that you have python installed o
 <div style="display: flex; flex-wrap: nowrap; justify-content: space-around;">
   <div style="flex: 1; text-align: center;">
     <p>Example of reliablity plot</p>
-    <img src="/images/reliability.png" alt="First Image" style="max-width: 100%; height: auto;">
+    <img src="/images/reliability.png" alt="First Image" style="max-width: 40%; height: auto;">
   </div>
   <div style="flex: 1; text-align: center;">
     <p>Example of sharpness plot</p>
-    <img src="/images/sharpness.png" alt="Second Image" style="max-width: 100%; height: auto;">
+    <img src="/images/sharpness.png" alt="Second Image" style="max-width: 40%; height: auto;">
   </div>
 </div>
    Example of time series plot.<br>
