@@ -8,7 +8,7 @@ NOTE: The installation instruction below assume that you have python installed o
 # Code scipts
 1. manupc_cleaning.py cleans the raw data in Data/All/.<br>
    Example of data cleaning.<br>
-   <img src="/images/data_clean.png" width="600" height="400" alt="Alt text">
+   <img src="/images/data_clean.png" width="600" height="200" alt="Alt text">
 3. ANN_trainging.ipynb trains the model for a single turbine.<br>
    Example of wind turbine uncertainty modeling.<br>
    <img src="/images/modeling_results.png" width="600" height="400" alt="Alt text">
