@@ -7,10 +7,13 @@ NOTE: The installation instruction below assume that you have python installed o
 3. Install packages listed in rq.txt
 # Code scipts
 1. manupc_cleaning.py cleans the raw data in Data/All/.
-   ![Example Image of data cleanning](/images/data_clean.png)
+   Example of data cleaning.
+   ![Example image of data cleanning](/images/data_clean.png)
 3. ANN_trainging.ipynb trains the model for a single turbine.
-4. ProbMetrics_2.R calcualates the metrics for wind turbine uncertainty quantification.
-5. Analysis_SPC_WindRegion.R outputs the relialibility and sharpness plots.
+   Example of wind turbine uncertainty modeling.
+   ![Example image of simulation results](/images/modeling results.png)
+5. ProbMetrics_2.R calcualates the metrics for wind turbine uncertainty quantification.
+6. Analysis_SPC_WindRegion.R outputs the relialibility and sharpness plots.
 # Recommended Citation
 Please check back in the future
 # Acknowledgments
