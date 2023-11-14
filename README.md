@@ -20,6 +20,7 @@ NOTE: The installation instruction below assume that you have python installed o
 </div><br>
    Example of time series plot.<br>
    <img src="/images/TS.png" width="600" height="200" alt="Alt text"><br>
+   
 # Recommended Citation
 Please check back in the future
 # Acknowledgments
