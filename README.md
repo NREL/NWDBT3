@@ -14,6 +14,7 @@ NOTE: The installation instruction below assume that you have python installed o
    <img src="/images/modeling_results.png" width="600" height="200" alt="Alt text">
 5. ProbMetrics_2.R calcualates the metrics for wind turbine uncertainty quantification.
 6. Analysis_SPC_WindRegion.R outputs the relialibility and sharpness plots.<br>
+   Example of reliablity plot.        Example of sharpness plot.
 <div>
   <img src="/images/reliability.png" width="300" height="300" alt="Example of reliability plot.">
   <img src="/images/sharpness.png" width="300" height="300" alt="Example of sharpness plot.">
