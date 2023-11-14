@@ -6,11 +6,11 @@ NOTE: The installation instruction below assume that you have python installed o
 2. Activate environment: conda activate nwdbt3  
 3. Install packages listed in rq.txt
 # Code scipts
-1. manupc_cleaning.py cleans the raw data in Data/All/.   
-   Example of data cleaning.  
+1. manupc_cleaning.py cleans the raw data in Data/All/.<br>
+   Example of data cleaning.<br>
    ![Example image of data cleanning](/images/data_clean.png)
-3. ANN_trainging.ipynb trains the model for a single turbine.  
-   Example of wind turbine uncertainty modeling.  
+3. ANN_trainging.ipynb trains the model for a single turbine.<br>
+   Example of wind turbine uncertainty modeling.<br>
    <img src="/images/modeling_results.png" width="600" height="400" alt="Alt text">
 5. ProbMetrics_2.R calcualates the metrics for wind turbine uncertainty quantification.
 6. Analysis_SPC_WindRegion.R outputs the relialibility and sharpness plots.
