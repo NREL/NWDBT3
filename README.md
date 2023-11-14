@@ -14,14 +14,14 @@ NOTE: The installation instruction below assume that you have python installed o
    <img src="/images/modeling_results.png" width="600" height="200" alt="Alt text">
 5. ProbMetrics_2.R calcualates the metrics for wind turbine uncertainty quantification.
 6. Analysis_SPC_WindRegion.R outputs the relialibility and sharpness plots.<br>
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <div>
-    <p style="text-align: center;">Example of reliablity plot</p>
-    <img src="/images/reliability.png" alt="First Image" style="width: 200px; display: block; margin-left: auto; margin-right: auto;">
+<div style="display: flex; flex-wrap: nowrap; justify-content: space-around;">
+  <div style="flex: 1; text-align: center;">
+    <p>Example of reliablity plot</p>
+    <img src="/images/reliability.png" alt="First Image" style="max-width: 100%; height: auto;">
   </div>
-  <div>
-    <p style="text-align: center;">Example of sharpness plot</p>
-    <img src="/images/sharpness.png" alt="Second Image" style="width: 200px; display: block; margin-left: auto; margin-right: auto;">
+  <div style="flex: 1; text-align: center;">
+    <p>Example of sharpness plot</p>
+    <img src="/images/sharpness.png" alt="Second Image" style="max-width: 100%; height: auto;">
   </div>
 </div>
    Example of time series plot.<br>
