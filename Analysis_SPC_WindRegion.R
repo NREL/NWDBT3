@@ -158,9 +158,9 @@ for (i in seq_along(csv_files)) {
   df_point$Power <- as.double(df_point$Power)
   
   if (turbine_type == "L"){
-    df_curve <- data.frame(read.csv('/Users/jhao2/Desktop/NWDB/Data/MITS1.0_ManufacurePowerCurve.csv',header = TRUE,sep = ",", fill=TRUE))
+    df_curve <- data.frame(read.csv('Data/MITS1.0_ManufacurePowerCurve.csv',header = TRUE,sep = ",", fill=TRUE))
   }else{
-    df_curve <- data.frame(read.csv('/Users/jhao2/Desktop/NWDB/Data/GE1.5_ManufacurePowerCurve.csv',header = TRUE,sep = ",", fill=TRUE))
+    df_curve <- data.frame(read.csv('Data/GE1.5_ManufacurePowerCurve.csv',header = TRUE,sep = ",", fill=TRUE))
     }
   
   cols1 <- gg_color_hue(3)
