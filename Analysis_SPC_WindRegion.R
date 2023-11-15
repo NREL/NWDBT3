@@ -6,15 +6,15 @@ library(ggplot2)
 library(stringr)
 library(extrafont)
 
-source('/Users/jhao2/Downloads/ProbMetrics_2.R')
+source('ProbMetrics_2.R')
 
 wspd_ci <- 5
 wspd_co <- 25
 wspd_r <- 12
 
 # Set the directory path
-directory_path <- "/Users/jhao2/Desktop/NWDB/WTK_array/result_1"
-directory_save <- "/Users/jhao2/Desktop/NWDB/WTK_array/analysis/mpc_1"
+directory_path <- "Results/ANN/"
+directory_save <- "Results/Analysis/"
 
 # List all .csv files in the directory
 csv_files <- list.files(path = directory_path, pattern = "\\.csv$", full.names = TRUE)
